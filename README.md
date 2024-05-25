@@ -2,8 +2,7 @@
 
 ![Desafio Ahmad](https://github.com/AhmadSaidAbdouni/Desafio-Embras-Cadastro-de-Usuarios/assets/75034691/1f7092f9-27ac-4571-a5e5-758c884142be)
 
-Sumário
-=================
+## :memo: Sumário
 <!--ts-->
    * [Descrição do Projeto](#Descrição-do-Projeto)
    * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
@@ -13,7 +12,7 @@ Sumário
    * [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
 <!--te-->
 
-## Descrição do Projeto
+## :dart: Descrição do Projeto
 
 Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo seletivo interno na EMBRAS.
 
@@ -26,28 +25,28 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
   
 - Deve ser utilizado o PrimeNG como biblioteca de componentes.
 
-## Funcionalidades do Projeto
+## :white_check_mark: Funcionalidades do Projeto
 
 - `Funcionalidade 1`: Botão para adicionar um usuário com campos de preenchimento obrigatório para nome e e-mail, seguidos de botões para confirmar ou cancelar essa ação.
 - `Funcionalidade 2`: Opção de excluir um usuário.
 
 
-## Demonstração da Aplicação
+## :sparkles: Demonstração da Aplicação
 
 
 
-## Tecnologias Utilizadas
+## :hammer: Tecnologias Utilizadas
 
 - `Angular V18`
 - `Ruby V3.3.1`
 - `Paradigma de orientação a objetos`
 
 
-## Acesso ao Projeto (Como Usar)
+## :warning: Acesso ao Projeto (Como Usar)
 
 
 
-## Pessoas Desenvolvedoras do Projeto
+## :raising_hand: Pessoas Desenvolvedoras do Projeto
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/75034691?v=4" width=115><br><sub>Ahmad Said Abdouni</sub>](https://github.com/AhmadSaidAbdouni) |
 | :---: |
