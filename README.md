@@ -2,20 +2,15 @@
 
 ![Desafio Ahmad](https://github.com/AhmadSaidAbdouni/Desafio-Embras-Cadastro-de-Usuarios/assets/75034691/1f7092f9-27ac-4571-a5e5-758c884142be)
 
-Tabela de conteúdos
+Sumário
 =================
 <!--ts-->
    * [Descrição do Projeto](#Descrição-do-Projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
+   * [Demonstração da Aplicação](#Demonstração-da-Aplicação)
+   * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+   * [Acesso ao Projeto (Como Usar)](#Acesso-ao-Projeto)
+   * [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
 <!--te-->
 
 ## Descrição do Projeto
