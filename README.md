@@ -23,11 +23,13 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 - Utilizar Angular para desenvolver o frontend.
 
 - Utilizar PHP ou Ruby para desenvolver o backend.
+  
+- Deve ser utilizado o PrimeNG como biblioteca de componentes.
 
 ## Funcionalidades do Projeto
 
-- `Funcionalidade 1`:
-- `Funcionalidade 2`:
+- `Funcionalidade 1`: Botão para adicionar um usuário com campos de preenchimento obrigatório para nome e e-mail, seguidos de botões para confirmar ou cancelar essa ação.
+- `Funcionalidade 2`: Opção de excluir um usuário.
 
 
 ## Demonstração da Aplicação
