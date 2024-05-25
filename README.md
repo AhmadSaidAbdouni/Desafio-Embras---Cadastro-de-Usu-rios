@@ -9,7 +9,7 @@ Sumário
    * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
    * [Demonstração da Aplicação](#Demonstração-da-Aplicação)
    * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-   * [Acesso ao Projeto (Como Usar)](#Acesso-ao-Projeto)
+   * [Acesso ao Projeto (Como Usar)](#Acesso-ao-Projeto-como-usar)
    * [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
 <!--te-->
 
