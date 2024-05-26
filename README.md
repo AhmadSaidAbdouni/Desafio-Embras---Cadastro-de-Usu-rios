@@ -9,6 +9,7 @@
    * [Demonstração da Aplicação](#sparkles-Demonstração-da-Aplicação)
    * [Tecnologias Utilizadas](#hammer-Tecnologias-Utilizadas)
    * [Acesso ao Projeto (Como Usar)](#warning-Acesso-ao-Projeto-como-usar)
+   ** [Configuração do Ambiente Angular](#Configuração-do-Ambiente-Angular)
    * [Pessoas Desenvolvedoras do Projeto](#raising_hand-Pessoas-Desenvolvedoras-do-Projeto)
 <!--te-->
 
