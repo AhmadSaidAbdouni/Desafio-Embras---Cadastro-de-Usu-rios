@@ -4,12 +4,12 @@
 
 ## :memo: Sumário
 <!--ts-->
-   * [Descrição do Projeto](#Descrição-do-Projeto)
-   * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
-   * [Demonstração da Aplicação](#Demonstração-da-Aplicação)
-   * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-   * [Acesso ao Projeto (Como Usar)](#Acesso-ao-Projeto-como-usar)
-   * [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
+   * [Descrição do Projeto](#dart-Descrição-do-Projeto)
+   * [Funcionalidades do Projeto](#white_check_mark-Funcionalidades-do-Projeto)
+   * [Demonstração da Aplicação](#sparkles-Demonstração-da-Aplicação)
+   * [Tecnologias Utilizadas](#hammer-Tecnologias-Utilizadas)
+   * [Acesso ao Projeto (Como Usar)](#warning-Acesso-ao-Projeto-como-usar)
+   * [Pessoas Desenvolvedoras do Projeto](#raising_hand-Pessoas-Desenvolvedoras-do-Projeto)
 <!--te-->
 
 ## :dart: Descrição do Projeto
