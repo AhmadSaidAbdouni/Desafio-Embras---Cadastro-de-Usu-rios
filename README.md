@@ -37,7 +37,7 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 
 ## :hammer: Tecnologias Utilizadas
 
-- `Angular V18`
+- `Angular V17`
 - `Ruby V3.3.1`
 - `Paradigma de orientação a objetos`
 
