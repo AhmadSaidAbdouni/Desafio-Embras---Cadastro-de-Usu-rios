@@ -62,7 +62,7 @@ Após a intalação do Node.JS, realize esse Passo-a-Passo:
 
 ##
 
-<h3 align="center">O Que Cada Comando Faz?</h3>
+<h4>O Que Cada Comando Faz?</h4>
 
 - Atualizar NPM: `npm install -g npm@latest`
 
