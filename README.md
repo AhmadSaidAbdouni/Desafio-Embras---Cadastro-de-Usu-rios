@@ -45,7 +45,38 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 
 ## :warning: Acesso ao Projeto (Como Usar)
 
+### Configuração do Ambiente Angular
 
+Para configurar e manipular projetos Angular, siga os passos abaixo. Primeiro, <b>instale o Node.js na sua máquina</b>. A versão utilizada neste projeto é Node.js 20.9.0. Você pode baixá-lo no site: https://nodejs.org/en.
+
+Após a intalação do Node.JS, realize esse Passo-a-Passo:
+
+1 - Em sua máquina, abra o Terminal como Administrador.
+
+2 - Rode os comandos abaixo separadamente:
+
+- npm install -g npm@latest
+- npm install -g @angular/cli@latest
+- npm install -g @npmcli/package-json
+- npm install primeng
+
+O que cada comando faz:
+
+- Atualizar NPM: `npm install -g npm@latest`
+
+Este comando instala a versão mais recente do NPM (Node Package Manager), essencial para gerenciar pacotes Node.js.
+
+- Instalar Angular CLI: `npm install -g @angular/cli@latest`
+
+Este comando instala a versão mais recente do Angular CLI, uma ferramenta necessária para criar e gerenciar projetos Angular.
+
+- Instalar Pacote JSON do NPM: `npm install -g @npmcli/package-json`
+
+Este comando instala o pacote package-json, útil para gerenciar dependências.
+
+- Instalar PrimeNG: `npm install primeng`
+
+Este comando instala o PrimeNG, uma biblioteca de componentes UI usada no projeto.
 
 ## :raising_hand: Pessoas Desenvolvedoras do Projeto
 
