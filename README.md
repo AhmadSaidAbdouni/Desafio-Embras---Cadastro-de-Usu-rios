@@ -9,6 +9,7 @@
    * [Demonstração da Aplicação](#sparkles-Demonstração-da-Aplicação)
    * [Tecnologias Utilizadas](#hammer-Tecnologias-Utilizadas)
    * [Acesso ao Projeto (Como Usar)](#warning-Acesso-ao-Projeto-como-usar)
+      * [Comandos Docker](#Comandos-Docker)
       * [Configuração do Ambiente Angular](#Configuração-do-Ambiente-Angular)
    * [Pessoas Desenvolvedoras do Projeto](#raising_hand-Pessoas-Desenvolvedoras-do-Projeto)
 <!--te-->
@@ -45,6 +46,23 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 
 
 ## :warning: Acesso ao Projeto (Como Usar)
+
+<h3 align="center">Comandos Docker</h3> 
+
+Para facilitar o uso e a acessibilidade do projeto, todas as dependências e pré-requisitos foram configurados utilizando o Docker. Siga os passos abaixo no terminal para configurar e iniciar o ambiente Docker do projeto.
+
+- `Docker compose --build`
+- `Docker compose up`
+
+##
+
+<h4>O Que Cada Comando Faz?</h4>
+
+- `docker compose --build`: Este comando cria (ou recria) as imagens Docker baseadas no arquivo docker-compose.yml. Ele garante que todas as dependências e configurações especificadas no Dockerfile e no arquivo de composição sejam aplicadas corretamente.
+
+- `docker compose up:` Este comando inicializa e executa os contêineres definidos no arquivo docker-compose.yml. Ele garante que o projeto esteja rodando no ambiente Docker configurado, conectando todos os serviços necessários.
+
+### <b>`As configurações abaixo são apenas explicativas, priorizar a utilização do Docker`</b>
 
 <h3 align="center">Configuração do Ambiente Angular</h3> 
 
