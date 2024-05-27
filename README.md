@@ -48,6 +48,8 @@ Acesse o vídeo com a demonstração da aplicação no link a seguir: https://yo
 
 ## :warning: Acesso ao Projeto (Como Usar)
 
+Acessar o projeto em um navegador utilizando a porta: <b>localhost:4200</b>
+
 <h3 align="center">Comandos Docker</h3> 
 
 Para facilitar o uso e a acessibilidade do projeto, todas as dependências e pré-requisitos foram configurados utilizando o Docker. Siga os passos abaixo no terminal do projeto para configurar e iniciar o ambiente Docker do projeto.
