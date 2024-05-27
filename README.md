@@ -53,6 +53,8 @@ Para facilitar o uso e a acessibilidade do projeto, todas as dependÃªncias e prÃ
 
 - `Docker compose --build`
 - `Docker compose up`
+- `docker compose exec backend bundle exec rails db:create`
+- `docker compose exec backend bundle exec rails db:migrate`
 
 ##
 
