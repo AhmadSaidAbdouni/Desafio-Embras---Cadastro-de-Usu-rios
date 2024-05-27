@@ -62,7 +62,9 @@ Para facilitar o uso e a acessibilidade do projeto, todas as dependências e pr�
 
 - `docker compose up:` Este comando inicializa e executa os contêineres definidos no arquivo docker-compose.yml. Ele garante que o projeto esteja rodando no ambiente Docker configurado, conectando todos os serviços necessários.
 
-### <b>`As configurações abaixo são apenas explicativas, priorizar a utilização do Docker`</b>
+###
+### <b>`ATENÇÃO: As configurações abaixo são apenas explicativas, priorizar a utilização do Docker.`</b>
+###
 
 <h3 align="center">Configuração do Ambiente Angular</h3> 
 
