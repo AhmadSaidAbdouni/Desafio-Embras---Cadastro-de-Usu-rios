@@ -49,7 +49,7 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 
 <h3 align="center">Comandos Docker</h3> 
 
-Para facilitar o uso e a acessibilidade do projeto, todas as dependências e pré-requisitos foram configurados utilizando o Docker. Siga os passos abaixo no terminal para configurar e iniciar o ambiente Docker do projeto.
+Para facilitar o uso e a acessibilidade do projeto, todas as dependências e pré-requisitos foram configurados utilizando o Docker. Siga os passos abaixo no terminal do projeto para configurar e iniciar o ambiente Docker do projeto.
 
 - `Docker compose --build`
 - `Docker compose up`
@@ -72,7 +72,7 @@ Para configurar e manipular projetos Angular, siga os passos abaixo. Primeiro, <
 
 Após a intalação do Node.JS, realize esse Passo-a-Passo:
 
-<b>1 -</b> Em sua máquina, abra o Terminal como Administrador.
+<b>1 -</b> Em sua máquina, abra o Terminal do computador como Administrador.
 
 <b>2 -</b> Rode os comandos abaixo separadamente:
 
