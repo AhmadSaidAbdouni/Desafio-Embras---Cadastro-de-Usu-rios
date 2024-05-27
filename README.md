@@ -35,13 +35,14 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 
 ## :sparkles: Demonstração da Aplicação
 
-
+Acesse o vídeo com a demonstração da aplicação no link a seguir: https://youtu.be/nNQc4xmbDqA?si=IisyugudiRZ7vpc7
 
 ## :hammer: Tecnologias Utilizadas
 
 - `Angular V18.0.1`
 - `Node.JS V20.9.0`
-- `Ruby V3.3.1`
+- `Ruby on Rails V3.3.1`
+- `PostgreSQL 13`
 - `Paradigma de orientação a objetos`
 
 
