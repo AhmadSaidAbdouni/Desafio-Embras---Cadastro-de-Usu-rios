@@ -49,7 +49,7 @@ h1 {
 }
 
 .p-button-danger .pi-trash {
-  margin-left: auto; /* Mover o ícone para a direita */
+  margin-left: auto;
 }
 
 .dialog-content {
@@ -63,7 +63,7 @@ h1 {
 .p-field label {
   display: block;
   margin-bottom: 0.5rem;
-  color: #6c757d; /* Cinza */
+  color: #6c757d;
 }
 
 .dialog-footer {
@@ -84,7 +84,6 @@ h1 {
   margin-bottom: 1rem;
 }
 
-/* Novo estilo para bordas arredondadas do modal */
 .p-dialog .p-dialog-content {
   border-radius: 10px;
 }
