@@ -51,8 +51,8 @@ Projeto elaborado em Angular/Ruby com o objetivo de participar de um processo se
 
 Para facilitar o uso e a acessibilidade do projeto, todas as dependências e pré-requisitos foram configurados utilizando o Docker. Siga os passos abaixo no terminal do projeto para configurar e iniciar o ambiente Docker do projeto.
 
-- `Docker compose --build`
-- `Docker compose up`
+- `docker compose --build`
+- `docker compose up`
 - `docker compose exec backend bundle exec rails db:create`
 - `docker compose exec backend bundle exec rails db:migrate`
 
